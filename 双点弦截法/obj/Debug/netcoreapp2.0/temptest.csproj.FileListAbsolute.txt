@@ -1,0 +1,10 @@
+/home/fractal/Desktop/temptest/bin/Debug/netcoreapp2.0/temptest.deps.json
+/home/fractal/Desktop/temptest/bin/Debug/netcoreapp2.0/temptest.runtimeconfig.json
+/home/fractal/Desktop/temptest/bin/Debug/netcoreapp2.0/temptest.runtimeconfig.dev.json
+/home/fractal/Desktop/temptest/bin/Debug/netcoreapp2.0/temptest.dll
+/home/fractal/Desktop/temptest/bin/Debug/netcoreapp2.0/temptest.pdb
+/home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.csproj.CoreCompileInputs.cache
+/home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.AssemblyInfoInputs.cache
+/home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.AssemblyInfo.cs
+/home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.dll
+/home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.pdb

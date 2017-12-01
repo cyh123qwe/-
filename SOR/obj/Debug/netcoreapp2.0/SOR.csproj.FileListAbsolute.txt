@@ -1,0 +1,10 @@
+c:\Users\Fractal\Desktop\SOR\bin\Debug\netcoreapp2.0\SOR.deps.json
+c:\Users\Fractal\Desktop\SOR\bin\Debug\netcoreapp2.0\SOR.runtimeconfig.json
+c:\Users\Fractal\Desktop\SOR\bin\Debug\netcoreapp2.0\SOR.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\SOR\bin\Debug\netcoreapp2.0\SOR.dll
+c:\Users\Fractal\Desktop\SOR\bin\Debug\netcoreapp2.0\SOR.pdb
+c:\Users\Fractal\Desktop\SOR\obj\Debug\netcoreapp2.0\SOR.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\SOR\obj\Debug\netcoreapp2.0\SOR.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\SOR\obj\Debug\netcoreapp2.0\SOR.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\SOR\obj\Debug\netcoreapp2.0\SOR.dll
+c:\Users\Fractal\Desktop\SOR\obj\Debug\netcoreapp2.0\SOR.pdb

@@ -1,0 +1,7 @@
+c:\users\fractal\source\repos\Guass2\Guass2\bin\Debug\Guass2.exe.config
+c:\users\fractal\source\repos\Guass2\Guass2\bin\Debug\Guass2.exe
+c:\users\fractal\source\repos\Guass2\Guass2\bin\Debug\Guass2.pdb
+c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.csprojResolveAssemblyReference.cache
+c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.csproj.CoreCompileInputs.cache
+c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.exe
+c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.pdb
