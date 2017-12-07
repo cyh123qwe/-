@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fractal\\Desktop\\CalHomework\\lagrange\\lagrange.csproj",
+      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\lagrange\\lagrange.csproj",
       "projectName": "lagrange",
-      "projectPath": "C:\\Users\\Fractal\\Desktop\\CalHomework\\lagrange\\lagrange.csproj",
+      "projectPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\lagrange\\lagrange.csproj",
       "packagesPath": "C:\\Users\\Fractal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fractal\\Desktop\\CalHomework\\lagrange\\obj\\",
+      "outputPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\lagrange\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

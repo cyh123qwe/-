@@ -15,7 +15,7 @@ namespace jaccobi
             double [,] a=new double[3,3]{{4,3,0},{3,4,-1},{0,-1,4}};
             double[] b=new double[3]{16,20,-12};
             double[] x=new double[3]{0,0,0};
-            double omega=0.5;
+            double omega=1.24;
             //矩阵初始化
             while(true)
             {

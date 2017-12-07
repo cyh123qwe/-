@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\SOR\\SOR.csproj",
+      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\SOR\\SOR.csproj",
       "projectName": "SOR",
-      "projectPath": "c:\\Users\\Fractal\\Desktop\\SOR\\SOR.csproj",
+      "projectPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\SOR\\SOR.csproj",
       "packagesPath": "C:\\Users\\Fractal\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Fractal\\Desktop\\SOR\\obj\\",
+      "outputPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\SOR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
