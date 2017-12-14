@@ -7,7 +7,8 @@ namespace lagrange
 {
        public static class Method
     {
-        public delegate double InterpolationMethod(double[]x,double[]y,int n,double x0);
+        //public delegate double InterpolationMethod(double[]x,double[]y,int n,double x0);
+        //public static InterpolationMethod LagrangeInter;//+=Lagrange();
         public static double LagrangeInter(double[] x,double[] y,int n,double x0)//用于计算插值多项式
         {
             //double result;
