@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\NewtonInterpolation.csproj",
+      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\NewtonInterpolation.csproj",
       "projectName": "NewtonInterpolation",
-      "projectPath": "C:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\NewtonInterpolation.csproj",
+      "projectPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\NewtonInterpolation.csproj",
       "packagesPath": "C:\\Users\\Fractal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\obj\\",
+      "outputPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\NewtonInterpolation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
