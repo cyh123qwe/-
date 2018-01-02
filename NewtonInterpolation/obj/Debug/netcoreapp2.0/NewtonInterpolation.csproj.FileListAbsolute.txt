@@ -1,0 +1,10 @@
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\bin\Debug\netcoreapp2.0\NewtonInterpolation.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\bin\Debug\netcoreapp2.0\NewtonInterpolation.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\bin\Debug\netcoreapp2.0\NewtonInterpolation.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\bin\Debug\netcoreapp2.0\NewtonInterpolation.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\bin\Debug\netcoreapp2.0\NewtonInterpolation.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\obj\Debug\netcoreapp2.0\NewtonInterpolation.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\obj\Debug\netcoreapp2.0\NewtonInterpolation.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\obj\Debug\netcoreapp2.0\NewtonInterpolation.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\obj\Debug\netcoreapp2.0\NewtonInterpolation.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\NewtonInterpolation\obj\Debug\netcoreapp2.0\NewtonInterpolation.pdb

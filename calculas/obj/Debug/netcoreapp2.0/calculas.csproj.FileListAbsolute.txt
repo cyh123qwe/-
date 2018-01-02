@@ -1,0 +1,10 @@
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\bin\Debug\netcoreapp2.0\calculas.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\bin\Debug\netcoreapp2.0\calculas.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\bin\Debug\netcoreapp2.0\calculas.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\bin\Debug\netcoreapp2.0\calculas.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\bin\Debug\netcoreapp2.0\calculas.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\obj\Debug\netcoreapp2.0\calculas.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\obj\Debug\netcoreapp2.0\calculas.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\obj\Debug\netcoreapp2.0\calculas.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\obj\Debug\netcoreapp2.0\calculas.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\calculas\obj\Debug\netcoreapp2.0\calculas.pdb

@@ -1,0 +1,10 @@
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\bin\Debug\netcoreapp2.0\EulerMethod.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\bin\Debug\netcoreapp2.0\EulerMethod.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\bin\Debug\netcoreapp2.0\EulerMethod.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\bin\Debug\netcoreapp2.0\EulerMethod.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\bin\Debug\netcoreapp2.0\EulerMethod.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\obj\Debug\netcoreapp2.0\EulerMethod.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\obj\Debug\netcoreapp2.0\EulerMethod.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\obj\Debug\netcoreapp2.0\EulerMethod.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\obj\Debug\netcoreapp2.0\EulerMethod.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\EulerMethod\obj\Debug\netcoreapp2.0\EulerMethod.pdb
