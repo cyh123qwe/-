@@ -8,3 +8,13 @@ c:\Users\Fractal\Desktop\jaccobi\obj\Debug\netcoreapp2.0\jaccobi.AssemblyInfoInp
 c:\Users\Fractal\Desktop\jaccobi\obj\Debug\netcoreapp2.0\jaccobi.AssemblyInfo.cs
 c:\Users\Fractal\Desktop\jaccobi\obj\Debug\netcoreapp2.0\jaccobi.dll
 c:\Users\Fractal\Desktop\jaccobi\obj\Debug\netcoreapp2.0\jaccobi.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\bin\Debug\netcoreapp2.0\jaccobi.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\bin\Debug\netcoreapp2.0\jaccobi.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\bin\Debug\netcoreapp2.0\jaccobi.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\bin\Debug\netcoreapp2.0\jaccobi.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\bin\Debug\netcoreapp2.0\jaccobi.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\obj\Debug\netcoreapp2.0\jaccobi.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\obj\Debug\netcoreapp2.0\jaccobi.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\obj\Debug\netcoreapp2.0\jaccobi.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\obj\Debug\netcoreapp2.0\jaccobi.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\雅可比迭代\obj\Debug\netcoreapp2.0\jaccobi.pdb

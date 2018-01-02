@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\jaccobi\\jaccobi.csproj",
+      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\雅可比迭代\\jaccobi.csproj",
       "projectName": "jaccobi",
-      "projectPath": "c:\\Users\\Fractal\\Desktop\\jaccobi\\jaccobi.csproj",
+      "projectPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\雅可比迭代\\jaccobi.csproj",
       "packagesPath": "C:\\Users\\Fractal\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Fractal\\Desktop\\jaccobi\\obj\\",
+      "outputPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\雅可比迭代\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

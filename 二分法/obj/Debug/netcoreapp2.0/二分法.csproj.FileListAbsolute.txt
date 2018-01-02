@@ -1,0 +1,10 @@
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\bin\Debug\netcoreapp2.0\二分法.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\bin\Debug\netcoreapp2.0\二分法.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\bin\Debug\netcoreapp2.0\二分法.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\bin\Debug\netcoreapp2.0\二分法.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\bin\Debug\netcoreapp2.0\二分法.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\obj\Debug\netcoreapp2.0\二分法.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\obj\Debug\netcoreapp2.0\二分法.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\obj\Debug\netcoreapp2.0\二分法.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\obj\Debug\netcoreapp2.0\二分法.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\二分法\obj\Debug\netcoreapp2.0\二分法.pdb

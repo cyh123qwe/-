@@ -5,3 +5,10 @@ c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.csprojResolveAssemb
 c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.csproj.CoreCompileInputs.cache
 c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.exe
 c:\users\fractal\source\repos\Guass2\Guass2\obj\Debug\Guass2.pdb
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\bin\Debug\Guass2.exe.config
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\bin\Debug\Guass2.exe
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\bin\Debug\Guass2.pdb
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\obj\Debug\Guass2.csprojResolveAssemblyReference.cache
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\obj\Debug\Guass2.csproj.CoreCompileInputs.cache
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\obj\Debug\Guass2.exe
+C:\Users\Fractal\Desktop\CalHomeworknew\主元素消去法\Guass2\obj\Debug\Guass2.pdb

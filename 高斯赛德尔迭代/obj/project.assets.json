@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\G_S\\guass.csproj",
+      "projectUniqueName": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\高斯赛德尔迭代\\guass.csproj",
       "projectName": "guass",
-      "projectPath": "c:\\Users\\Fractal\\Desktop\\G_S\\guass.csproj",
+      "projectPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\高斯赛德尔迭代\\guass.csproj",
       "packagesPath": "C:\\Users\\Fractal\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Fractal\\Desktop\\G_S\\obj\\",
+      "outputPath": "c:\\Users\\Fractal\\Desktop\\CalHomeworknew\\高斯赛德尔迭代\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

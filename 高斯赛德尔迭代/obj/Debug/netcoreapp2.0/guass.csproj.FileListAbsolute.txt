@@ -18,3 +18,13 @@ c:\Users\Fractal\Desktop\G_S\obj\Debug\netcoreapp2.0\guass.AssemblyInfoInputs.ca
 c:\Users\Fractal\Desktop\G_S\obj\Debug\netcoreapp2.0\guass.AssemblyInfo.cs
 c:\Users\Fractal\Desktop\G_S\obj\Debug\netcoreapp2.0\guass.dll
 c:\Users\Fractal\Desktop\G_S\obj\Debug\netcoreapp2.0\guass.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\bin\Debug\netcoreapp2.0\guass.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\bin\Debug\netcoreapp2.0\guass.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\bin\Debug\netcoreapp2.0\guass.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\bin\Debug\netcoreapp2.0\guass.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\bin\Debug\netcoreapp2.0\guass.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\obj\Debug\netcoreapp2.0\guass.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\obj\Debug\netcoreapp2.0\guass.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\obj\Debug\netcoreapp2.0\guass.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\obj\Debug\netcoreapp2.0\guass.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\高斯赛德尔迭代\obj\Debug\netcoreapp2.0\guass.pdb

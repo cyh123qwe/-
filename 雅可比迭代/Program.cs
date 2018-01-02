@@ -6,6 +6,7 @@ using static System.Math;
 
 namespace jaccobi
 {
+    //P91T1
     class Program
     {
         static void Main(string[] args)
@@ -28,10 +29,15 @@ namespace jaccobi
                 var[2] = x[2] - x3;
                 if (Abs(var.Max()) < 0.5e-3)
                 {
+                    WriteLine("x1="+x1);
+                    WriteLine("x2="+x2);
+                    WriteLine("x3="+x3);
                     break;
                 }
                 
             }
+            
+
         }
         
     }

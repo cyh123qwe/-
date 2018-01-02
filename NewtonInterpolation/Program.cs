@@ -3,6 +3,7 @@ using System.Linq;
 using System.Collections.Generic;
 using System.Data;
 using System.Text;
+using static System.Console;
 using static System.Math;
 namespace NewtonInterpolation
 {
@@ -10,9 +11,8 @@ namespace NewtonInterpolation
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!");
-            //初始化x
-            /* 
+            #region 差商计算实例
+            
             double[] x=new double[10];
             for(int i =0;i<10;i++)
             {
@@ -20,19 +20,33 @@ namespace NewtonInterpolation
             }
             //计算差商
             List<List<double>> table= Newton.TableCal(f,x,false);
-            foreach(var i in table)
-            Console.WriteLine(i);
-            */
-            
+            tableout(table);
+        
+            #endregion
+            /*
+            #region 差分计算实例
             double[] x=new double[5]{0.4,0.5,0.6,0.7,0.8};
             double[] y=new double[5]{-0.916291,-0.693147,-0.510826,-0.356675,-0.223144};
             List<List<double>> table=Newton.TableCal(y,x);
-            Console.ReadKey();
-            
+            //Console.ReadKey();
+            tableout(table);
+            #endregion
+            */
         }
         static double f(double x)
         {
             return Pow(x,8)+5*Pow(x,7)-3*x-1;
+        }
+        static void tableout(List<List<double>> table)
+        {
+            for(int i=0;i<table.Count;i++)
+            {
+                for(int j=0;j<table[i].Count;j++)
+                {
+                    Write(Round(table[i][j],4).ToString().PadRight(9,' ')+"  ");
+                }
+                WriteLine();
+            }
         }
     }
     public static class Newton

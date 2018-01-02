@@ -10,6 +10,7 @@ namespace Guass
     class Program
     {
         //public double[,] a = new double[3, 4];
+        //
         static void Main(string[] args)
         {
             //消元过程
@@ -40,6 +41,7 @@ namespace Guass
             //输出
             foreach (var i in x)
             { Console.WriteLine(i); }
+            
         }
     }
 }

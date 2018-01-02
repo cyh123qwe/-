@@ -16,11 +16,12 @@ namespace lagrange
         }
         static void Main(string[] args)
         {
-            double x0=3;//插值点
+            double x0=2.5;//插值点
             double[] x=new double[4]{0,1,2,3};
             double[] y=new double[4]{1,3,9,25};
             int n=3;
             //初始化值
+            
             Console.WriteLine(Interpolation(x,y,n,x0,LagrangeInter));
             
         }

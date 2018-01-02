@@ -56,6 +56,7 @@ namespace Guass2
             //输出
             foreach (var i in x)
             { Console.WriteLine(i); }
+            Console.ReadKey();
 
 
         }

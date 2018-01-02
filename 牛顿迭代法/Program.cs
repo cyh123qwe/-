@@ -15,7 +15,7 @@ namespace hwapp2
             while(true)
             {
                 double x0=x;
-                x=(2*Pow(x,3)+4*Pow(x,2)+10)/(3*Pow(x,2)+8*x);
+                x=(2*Pow(x,3)+4*Pow(x,2)+10)/(6*Pow(x,2)+8*x);
                 if(Abs(x-x0)<0.00001)
                 {Console.WriteLine(x);break;}
 

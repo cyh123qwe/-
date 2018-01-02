@@ -8,3 +8,13 @@
 /home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.AssemblyInfo.cs
 /home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.dll
 /home/fractal/Desktop/temptest/obj/Debug/netcoreapp2.0/temptest.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\bin\Debug\netcoreapp2.0\temptest.deps.json
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\bin\Debug\netcoreapp2.0\temptest.runtimeconfig.json
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\bin\Debug\netcoreapp2.0\temptest.runtimeconfig.dev.json
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\bin\Debug\netcoreapp2.0\temptest.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\bin\Debug\netcoreapp2.0\temptest.pdb
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\obj\Debug\netcoreapp2.0\temptest.csproj.CoreCompileInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\obj\Debug\netcoreapp2.0\temptest.AssemblyInfoInputs.cache
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\obj\Debug\netcoreapp2.0\temptest.AssemblyInfo.cs
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\obj\Debug\netcoreapp2.0\temptest.dll
+c:\Users\Fractal\Desktop\CalHomeworknew\双点弦截法\obj\Debug\netcoreapp2.0\temptest.pdb
