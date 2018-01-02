@@ -24,9 +24,9 @@ namespace NewtonInterpolation
             Console.WriteLine(i);
             */
             
-            double[] x=new double[4]{-1,0,1,3};
-            double[] y=new double[4]{1,-1,-1,29};
-            List<List<double>> table=Newton.TableCal(y,x,false);
+            double[] x=new double[5]{0.4,0.5,0.6,0.7,0.8};
+            double[] y=new double[5]{-0.916291,-0.693147,-0.510826,-0.356675,-0.223144};
+            List<List<double>> table=Newton.TableCal(y,x);
             Console.ReadKey();
             
         }
